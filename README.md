@@ -1,2 +1,2 @@
 # JSNet
-This is the implementation of JSNet
+This is the implementation of JSNet.
