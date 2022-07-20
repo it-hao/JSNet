@@ -56,7 +56,7 @@ Recently, block-based design methods have shown effectiveness in image restorati
 
 ### Citation
 
-```
+```pyhton
 @inproceedings{zhang2019rnan,
     title={Residual Non-local Attention Networks for Image Restoration},
     author={Zhang, Yulun and Li, Kunpeng and Li, Kai and Zhong, Bineng and Fu, Yun},
@@ -74,7 +74,8 @@ Recently, block-based design methods have shown effectiveness in image restorati
 @inproceedings{shen2022joint
   title={Joint Operation and Attention Block Search for Lightweight Image Restoration},
   author={Shen, Hao and Liao, Wenrui and Zhao, Zhong-Qiu and Tian, Weidong and huang de-shuang},
-  journal={Pattern Recognition}
+  journal={Pattern Recognition} 
   year={2022}
 }
 ```
+
