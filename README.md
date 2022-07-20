@@ -44,7 +44,7 @@ Recently, block-based design methods have shown effectiveness in image restorati
 
 2. **Image denoising task**
 
-<img src="fig\denoising.png" style="zoom:50%;" />
+<img src="fig\dn.png" style="zoom:50%;" />
 
 3. **JPEG image deblocking task**
 
